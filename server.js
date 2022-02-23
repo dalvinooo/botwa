@@ -40,5 +40,5 @@ function pipeEmit(event, event2, prefix = '') {
 
 module.exports = connect
 
-// R-Txzy
+// ARIFUSERBOT
 //
