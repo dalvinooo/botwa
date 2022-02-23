@@ -1,7 +1,7 @@
 {
-  "name": "R-Txzy",
+  "name": "ARIFUSERBOT",
   "version": "2.2.0",
-  "description": "WhatsApp Bot",
+  "description": "BOT KONDANG",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,7 +14,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "R-Txzy",
+  "author": "ARIFUSERBOT",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ariffb25/stikerinbot/issues"
