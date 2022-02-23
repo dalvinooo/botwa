@@ -4,7 +4,7 @@
 
 
 let fs = require('fs')
-global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667', '6285730903853'] // Letakan nomor kamu disini
+global.owner = ['6285741580627', '6285741580627','6285741580627', '6285741580627', '6285741580627'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -47,9 +47,9 @@ global.author = 'NyyXz'
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© R-Txzy' //change the watermark 
-global.image = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg'
+global.watermark = '© ARIFUSERBOT' //change the watermark 
+global.image = 'https://telegra.ph/file/367b8980b8b1165710440.jpg' //change the image
+global.thumbfoto = 'https://telegra.ph/file/80b98917e3ada11d66e79.jpg'
 
 // image
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
