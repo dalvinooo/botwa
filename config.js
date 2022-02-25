@@ -41,15 +41,15 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Exc'
-global.author = 'NyyXz'
+global.packname = 'ARIFUSETBOT'
+global.author = 'ARIFUSERBOT'
 
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '© ARIFUSERBOT' //change the watermark 
-global.image = 'https://telegra.ph/file/367b8980b8b1165710440.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/80b98917e3ada11d66e79.jpg'
+global.image = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg' //change the image
+global.thumbfoto = 'https://telegra.ph/file/8cba747134eb7e5dbf594.jpg'
 
 // image
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
